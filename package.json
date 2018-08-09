@@ -1,7 +1,7 @@
 {
   "name": "gyl-vue-range",
   "description": "在VUE框架基础上开发的一款简单的滑块插件。",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "YaliixxG <529008421@qq.com>",
   "license": "MIT",
   "private": false,
