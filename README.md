@@ -2,7 +2,7 @@
 ## 在VUE框架基础上开发的一款简单的滑块插件。  
 
 #### 安装  
-npm i range 
+npm i gyl-vue-range 
 #### 自定义参数  
 
     width: 500 （滑块进度条宽，默认值500）
