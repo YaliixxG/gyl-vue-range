@@ -9,6 +9,6 @@ const Range = {
 }
 
 if (typeof window !== 'undefined' && window.Vue) {
-    window.Vue.use(vueToast)
+    window.Vue.use(Range)
   }
 export default Range
